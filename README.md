@@ -6,7 +6,7 @@
 * [Usage](#usage)
 
 ## Description
-This project was aimed at completing a Note Taker application with the front end already completed. The application was intended to save note which can be viewed after they are posted.
+This project was aimed at finishing a Note Taker application with the front end already completed. The application was intended to save notes which can be viewed after they are posted.
 
 ## Installation
 To install, add the repository to you local device. Run npm install to obtain the required dependencies and then run node index to start the application.
