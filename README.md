@@ -14,4 +14,4 @@ To install, add the repository to you local device. Run npm install to obtain th
 ## Usage
 To use the application, enter a title and body for your note and press the save button. Notes can be viewed or deleted, and new notes can be created by clicking the icon on the top right.
 
-![noteTakerThumbnail](./assets/noteTakerThumbnail.PNG)
+![noteTakerThumbnail](./public/assets/noteTakerThumbnail.PNG)
