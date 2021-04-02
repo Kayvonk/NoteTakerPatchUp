@@ -6,5 +6,9 @@
     {
         "title": "Newer",
         "text": "Note"
+    },
+    {
+        "title": "Newest Note",
+        "text": "Don't forget to study coding."
     }
 ]
